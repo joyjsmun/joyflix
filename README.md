@@ -1,4 +1,4 @@
-#Joyflix 
+# JOYFLIX 
 
 - React 
 - Typescript
@@ -6,3 +6,5 @@
 - React Recoil
 - Framer motion
 - Styled component
+
+
